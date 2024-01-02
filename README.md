@@ -33,8 +33,8 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-[![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=materialize)](https://materializecss.com/)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++) 
+[![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=materializecss)](https://materializecss.com/)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)](https://www.cplusplus.com/)
 [![DevC++](https://img.shields.io/badge/-DevC++-black?style=flat-square&logo=devcpp)](https://www.bloodshed.net/devcpp.html)
 [![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-black?style=flat-square&logo=codeblocks)](http://www.codeblocks.org/)
 [![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
@@ -55,12 +55,16 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws)
+[![Git Bash](https://img.shields.io/badge/-Git_Bash-black?style=flat-square&logo=git)](https://gitforwindows.org/)
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 [![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](https://www.w3schools.com/sql/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-[![Git Bash](https://img.shields.io/badge/-Git_Bash-black?style=flat-square&logo=git)](https://gitforwindows.org/)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) 
-[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)](https://www.cplusplus.com/)
+[![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
+[![DevC++](https://img.shields.io/badge/-DevC++-black?style=flat-square&logo=cpp)](https://www.bloodshed.net/devcpp.html)
+
+
+
 
 
 <!--
