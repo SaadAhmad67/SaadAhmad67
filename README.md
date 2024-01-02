@@ -13,7 +13,7 @@
  </a>
 </p>
 
-- 🔭 Hellow Frinds, This is my Github profile👋.
+- 🔭 Hellow Friends, This is my Github profile👋.
 - 🌱 To the world, I am a Backend Developer i believes that code change live.
 - ⚡ Currently i worked as Backend Engineer, but i also learns Web technologies, like frontend and others applications. 
 <br>
@@ -29,13 +29,16 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
+[![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)](https://www.cplusplus.com/)
 
-![Html](https://img.shields.io/badge/-Css-black?style=flat-square&logo=css)
+![Html](https://img.shields.io/badge/-Css-black?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-Css-black?style=flat-square&logo=css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![Materialize](https://materializecss.com/)
-![C++](https://www.w3schools.com/cpp/)
+![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=materialize)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
