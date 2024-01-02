@@ -35,9 +35,9 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 [![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=materializecss)](https://materializecss.com/)
 [![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)](https://www.cplusplus.com/)
-[![DevC++](https://img.shields.io/badge/-DevC++-black?style=flat-square&logo=devcpp)](https://www.bloodshed.net/devcpp.html)
 [![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-black?style=flat-square&logo=codeblocks)](http://www.codeblocks.org/)
 [![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
+[![DevC++](https://img.shields.io/badge/-DevC++-black?style=flat-square&logo=devcpp)](https://www.bloodshed.net/devcpp.html)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
@@ -58,10 +58,10 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 [![Git Bash](https://img.shields.io/badge/-Git_Bash-black?style=flat-square&logo=git)](https://gitforwindows.org/)
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 [![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](https://www.w3schools.com/sql/)
+[![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) 
-[![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
-[![DevC++](https://img.shields.io/badge/-DevC++-black?style=flat-square&logo=cpp)](https://www.bloodshed.net/devcpp.html)
+
 
 
 
