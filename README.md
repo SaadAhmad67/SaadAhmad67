@@ -66,16 +66,6 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) 
-![Materialize]<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="25" height="25"/> </a>
-
-[![MaterializeL](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=Materialize)](<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="25" height="25"/> </a>)
-
-
-
-[![MaterializeL](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=Materialize)][(https://materializecss.com/)(img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="25" height="25")]
-
-
-
 
 
 
