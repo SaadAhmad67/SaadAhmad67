@@ -45,7 +45,6 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![NEST JS](https://img.shields.io/badge/-Nest_JS-black?style=flat-square&logo=typescript)
 ![ JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logo=nextdotjs) 
 ![J Query](https://img.shields.io/badge/-J%20Query-black?style=flat-square&logo=Jquery) 
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![GraphQL](https://img.shields.io/badge/-Graph%20QL-black?style=flat-square&logo=graphq) 
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha) 
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
