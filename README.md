@@ -40,12 +40,11 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 [![DevC++](https://img.shields.io/badge/-DevC++-black?style=flat-square&logo=devcpp)](https://www.bloodshed.net/devcpp.html)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
+![Express Js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=nestjs) 
 ![NEST JS](https://img.shields.io/badge/-Nest_JS-black?style=flat-square&logo=typescript)
 ![ JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logo=nextdotjs) 
 ![J Query](https://img.shields.io/badge/-J%20Query-black?style=flat-square&logo=Jquery) 
-[![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)](https://expressjs.com/)
 ![GraphQL](https://img.shields.io/badge/-Graph%20QL-black?style=flat-square&logo=graphq) 
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha) 
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) 
@@ -66,6 +65,7 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
 
 
