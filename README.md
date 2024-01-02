@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub world, where innovation meets code - [Saad Ahmad](https://github.com/SaadAhmad67)
+## 👋 Welcome to my GitHub world, Where code mirrors logical patterns - [Saad Ahmad](https://github.com/SaadAhmad67)
 
 
 ![Saad Ahmad](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=I+am+Backend+Developer)
@@ -16,10 +16,7 @@
 - 🔭 Hellow Friends, This is my Github profile👋.
 - 🌱 To the world, I am a Backend Developer i believes that code change live.
 - ⚡ Currently i worked as Backend Engineer, but i also learns Web technologies, like frontend and others applications. 
-<br>
 
-Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms.
-<br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAhmad67&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=SaadAhmad67&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
