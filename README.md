@@ -20,7 +20,6 @@
 
 Software technology is the backbone of modern civilization.It's the art of crafting digital tools that streamline tasks, connect people globally, and reshaping our world.
 <br>
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAhmad67&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=SaadAhmad67&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
@@ -29,8 +28,6 @@ Software technology is the backbone of modern civilization.It's the art of craft
 
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-
-
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
@@ -67,9 +64,6 @@ Software technology is the backbone of modern civilization.It's the art of craft
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) 
-
-
-
 
 <!--
 **SaadAhmad67/SaadAhmad67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
