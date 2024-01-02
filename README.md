@@ -29,6 +29,9 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
+[![MaterializeL](https://img.shields.io/badge/-Materialize-black?style=flat-square&logo=Materialize)](https://developer.mozilla.org/en-US/docs/Web/Materialize)
+
+
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
@@ -65,7 +68,7 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) 
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> </a>
+![Materialize]<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="25" height="25"/> </a>
 
 
 
