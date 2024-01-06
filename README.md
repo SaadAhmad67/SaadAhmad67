@@ -13,7 +13,7 @@
  </a>
 </p>
 
-- 🔭 Hellow Friends, This is my Github profile👋.
+- 🔭 Assalam o Alaikum ! Friends, This is my Github profile👋.
 - 🌱 To the world, I am a Backend Developer i believes that code change live.
 - ⚡ Currently i worked as Backend Engineer, but i also learns Web technologies, like frontend and others applications. 
 <br>
