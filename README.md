@@ -41,7 +41,6 @@ Software technology is the backbone of modern civilization.It's the art of craft
 ![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
 ![Express Js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=nestjs) 
-![NEST JS](https://img.shields.io/badge/-Nest_JS-black?style=flat-square&logo=typescript)
 ![ JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logo=nextdotjs) 
 ![EJS Express.js](https://img.shields.io/badge/-EJS_Express.js-black?style=flat-square&logo=ejs)
 ![J Query](https://img.shields.io/badge/-J%20Query-black?style=flat-square&logo=Jquery) 
@@ -62,7 +61,7 @@ Software technology is the backbone of modern civilization.It's the art of craft
 [![Git Bash](https://img.shields.io/badge/-Git_Bash-black?style=flat-square&logo=git)](https://gitforwindows.org/)
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 [![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)](https://www.w3schools.com/sql/)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Flu
 [![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
