@@ -17,7 +17,6 @@
 - 🌱 To the world, I am a Backend Developer i believes that code change live.
 - ⚡ Currently i worked as Backend Engineer, but i also learns Web technologies, like frontend and others applications. 
 <br>
-
 Software technology is the backbone of modern civilization.It's the art of crafting digital tools that streamline tasks, connect people globally, and reshaping our world.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
